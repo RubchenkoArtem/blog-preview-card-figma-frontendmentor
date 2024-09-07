@@ -29,8 +29,8 @@ See hover and focus states for all interactive elements on the page
 
 ### Solutions
 
-- Solution URL: [Click]()
-- Live Site URL: [Click]()
+- Solution URL: [Click](https://www.frontendmentor.io/solutions/blog-preview-card-frontend-mentor-WkXoiGsLcu)
+- Live Site URL: [Click](https://rubchenkoartem.github.io/blog-preview-card-figma-frontendmentor/)
 
 ## My process
 
