@@ -126,7 +126,7 @@ main {
 
 
 
-@media (max-width: 1200px) {
+  @media (max-width: 1200px) {
     .main {
         max-width: 89%;
         margin: 19px;
@@ -141,6 +141,14 @@ main {
         margin-top: 370px;
     }
   }
+
+  @media (max-width: 1080px) {
+    .main {
+        max-width: 89%;
+        margin: 369px;
+        margin-top: 780px;
+    }
+}
 
 
   @media (max-width: 820px) {
